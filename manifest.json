@@ -1,21 +1,20 @@
 {
-    "name": "Pradeep App", 
-    "short_name": "Pradeep Bio",
-    "start_url": ".",
-    "theme_color": "#4287f5",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "icons":[
-      {
-        "src":"./image/pradeep-m.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src":"./image/pradeepsm.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ]
-  
-  }
+  "name": "Pradeep App", 
+  "short_name": "Pradeep Bio",
+  "start_url": "index.html",
+  "theme_color": "#ffdc00",
+  "background_color": "#27292A",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./image/pradeep-m.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./image/pradeepsm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
