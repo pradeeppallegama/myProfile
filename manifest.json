@@ -1,0 +1,21 @@
+{
+    "name": "Pradeep App", // installation name
+    "short_name": "Pradeep Bio", // app title name
+    "start_url": ".",
+    "theme_color": "#4287f5",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "icons":[
+      {
+        "src":"./image/pradeep-m.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src":"./image/pradeepsm.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  
+  }
