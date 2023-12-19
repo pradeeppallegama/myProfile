@@ -1,6 +1,6 @@
 {
-    "name": "Pradeep App", // installation name
-    "short_name": "Pradeep Bio", // app title name
+    "name": "Pradeep App", 
+    "short_name": "Pradeep Bio",
     "start_url": ".",
     "theme_color": "#4287f5",
     "background_color": "#ffffff",
