@@ -1,6 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Pradeep Pallegama",
+    "short_name": "PradeepApp",
+    "start_url": "index.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
