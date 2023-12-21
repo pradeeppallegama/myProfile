@@ -2,7 +2,7 @@
 self.addEventListener("install",e=>{
     e.waitUntil(
       caches.open("static").then(cache=>{
-        return cache.addAll(["./",'./images/logo_new.png']);
+        return cache.addAll(["./",'./android-chrome-192x192.png']);
       })
     );
   });
